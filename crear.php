@@ -41,7 +41,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             </div>
             
             <div class="form-group">
-                <label for="pass">pass:</label>
+                <label for="pass">Contraseña:</label>
                 <input type="password" id="pass" name="pass">
             </div>
             
